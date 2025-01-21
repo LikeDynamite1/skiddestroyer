@@ -8,3 +8,6 @@ maybe it causes a few epileptic attacks but nothing major!
 remove the Character of the client and his topbarapp to stop any move
 It also prints the word "string" many times in the Roblox console
 a bit of lag and sorry if my english is so bad
+
+If you know what you are doing then heres the script:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LikeDynamite1/skiddestroyer/main/source.lua"))()

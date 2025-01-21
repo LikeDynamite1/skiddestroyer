@@ -7,4 +7,4 @@ and make him say they are a Exploiter
 maybe it causes a few epileptic attacks but nothing major!
 remove the Character of the client and his topbarapp to stop any move
 It also prints the word "string" many times in the Roblox console
-a bit of lag
+a bit of lag and sorry if my english is so bad
